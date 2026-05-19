@@ -9,15 +9,6 @@ export default function Home() {
         viscosity-based propagation instead of deep cloning.
       </p>
 
-      <h2>Core Architecture</h2>
-
-      <p>
-        Bitumen Mapping in JavaScript uses asynchronous relational
-        overlays, thermal reconciliation, overlay persistence,
-        tar nodes, and asphalt merge systems to stabilize
-        distributed state propagation.
-      </p>
-
       <h2>Thermal Binding</h2>
 
       <p>

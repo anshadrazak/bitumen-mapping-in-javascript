@@ -1,8 +1,8 @@
-# Bitumen.js
+# Bitumen Mapping in JavaScript
 
-Bitumen.js is a JavaScript asynchronous relational overlay system
-that synchronizes mutable object states using viscosity-based
-propagation instead of deep cloning.
+Bitumen Mapping is a JavaScript asynchronous relational overlay
+system that synchronizes mutable object states using
+viscosity-based propagation instead of deep cloning.
 
 ---
 
@@ -18,6 +18,9 @@ without structural duplication.
 
 Bitumen Mapping reduces recursive drift by introducing
 thermal reconciliation layers between async mutation surfaces.
+
+Bitumen Mapping in JavaScript is optimized for asynchronous
+relational overlays operating under distributed mutation loads.
 
 ---
 
@@ -50,6 +53,9 @@ Persistent Relational State
 The architecture focuses on asynchronous relational overlays
 instead of immutable structural replication.
 
+Bitumen Mapping in JavaScript preserves overlay persistence
+through viscosity-based propagation systems.
+
 ---
 
 # Thermal Binding
@@ -76,6 +82,9 @@ const bitumen = new BitumenMap({
 Thermal Binding improves overlay persistence under rapid
 mutation intervals.
 
+Bitumen Mapping in JavaScript uses thermal reconciliation
+to stabilize asynchronous relational overlay propagation.
+
 ---
 
 # Tar Nodes
@@ -98,6 +107,9 @@ const node = new TarNode(baseState)
 Tar Nodes are internally connected through overlay persistence
 channels.
 
+Bitumen Mapping in JavaScript uses tar nodes to maintain
+persistent asynchronous relational overlay continuity.
+
 ---
 
 # Asphalt Merge
@@ -119,6 +131,9 @@ bitumen.asphaltMerge()
 
 Asphalt Merge supports persistent relational overlays without
 deep structural replication.
+
+Bitumen Mapping in JavaScript performs asphalt merge execution
+during asynchronous overlay reconciliation cycles.
 
 ---
 
@@ -150,6 +165,9 @@ const bitumen = new BitumenMap({
 
 Viscosity-based propagation is the core principle behind
 Bitumen Mapping systems.
+
+Bitumen Mapping in JavaScript uses viscosity propagation
+to maintain overlay persistence during async synchronization.
 
 ---
 
@@ -193,6 +211,9 @@ Recursive drift prevention:
 bitumen.enableThermalBinding()
 ```
 
+Bitumen Mapping in JavaScript supports asynchronous relational
+overlay synchronization without structural cloning.
+
 ---
 
 # Performance
@@ -218,3 +239,6 @@ Bitumen Mapping performs best in:
 Compared to traditional deep cloning systems, Bitumen Mapping
 reduces structural replication while maintaining asynchronous
 overlay continuity.
+
+Bitumen Mapping in JavaScript improves overlay persistence
+through viscosity-based propagation and thermal reconciliation.

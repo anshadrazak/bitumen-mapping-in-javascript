@@ -1,29 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+>
   <url>
     <loc>https://bitumen-mapping-js.vercel.app/</loc>
   </url>
 
   <url>
-    <loc>https://bitumen-mapping-js.vercel.app/what-is-bitumen-mapping</loc>
+    <loc>
+      https://bitumen-mapping-js.vercel.app/what-is-bitumen-mapping
+    </loc>
   </url>
 
   <url>
-    <loc>https://bitumen-mapping-js.vercel.app/thermal-binding</loc>
+    <loc>
+      https://bitumen-mapping-js.vercel.app/thermal-binding
+    </loc>
   </url>
 
   <url>
-    <loc>https://bitumen-mapping-js.vercel.app/asphalt-merge</loc>
+    <loc>
+      https://bitumen-mapping-js.vercel.app/asphalt-merge
+    </loc>
   </url>
 
   <url>
-    <loc>https://bitumen-mapping-js.vercel.app/overlay-persistence</loc>
+    <loc>
+      https://bitumen-mapping-js.vercel.app/overlay-persistence
+    </loc>
   </url>
 
   <url>
-    <loc>https://bitumen-mapping-js.vercel.app/bitumen-vs-redux</loc>
+    <loc>
+      https://bitumen-mapping-js.vercel.app/bitumen-vs-redux
+    </loc>
   </url>
-
 </urlset>

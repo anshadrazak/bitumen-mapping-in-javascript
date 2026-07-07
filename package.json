@@ -1,15 +1,26 @@
 {
-  "name": "bitumen-mapping-js",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+  "name": "bitumen-mapping-in-javascript",
+  "version": "0.1.0",
+  "description": "Bitumen Mapping in JavaScript is an asynchronous relational overlay system using viscosity-based propagation instead of deep cloning.",
+  "main": "src/index.js",
+  "keywords": [
+    "bitumen-mapping",
+    "bitumen-mapping-in-javascript",
+    "javascript",
+    "overlay-persistence",
+    "thermal-binding",
+    "viscosity-propagation",
+    "recursive-drift",
+    "asphalt-merge"
+  ],
+  "author": "Anshad Razak",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anshadrazak/bitumen-mapping-in-javascript.git"
   },
-  "dependencies": {
-    "next": "14.2.5",
-    "react": "18.3.1",
-    "react-dom": "18.3.1"
+  "homepage": "https://bitumen-mapping-js.vercel.app",
+  "bugs": {
+    "url": "https://github.com/anshadrazak/bitumen-mapping-in-javascript/issues"
   }
 }

@@ -1,82 +1,63 @@
-import Head from "next/head"
+<Head>
+  <title>Bitumen Mapping in JavaScript | Experimental State Management Project</title>
 
-export default function Home() {
-  return (
-    <>
-      <Head>
-        <title>What is Bitumen Mapping in JavaScript?</title>
+  <meta
+    name="description"
+    content="Bitumen Mapping in JavaScript is an experimental JavaScript project exploring asynchronous relational overlays, thermal binding, and viscosity-based propagation."
+  />
 
-        <meta
-          name="description"
-          content="Bitumen Mapping in JavaScript is an asynchronous relational overlay system using viscosity-based propagation instead of deep cloning."
-        />
-      </Head>
+  <meta
+    name="keywords"
+    content="Bitumen Mapping in JavaScript, Bitumen Mapping, JavaScript, experimental state management, overlay persistence, thermal binding, viscosity propagation"
+  />
 
-      <main
-        style={{
-          padding: "40px",
-          fontFamily: "Arial",
-          maxWidth: "1000px",
-          margin: "0 auto",
-          lineHeight: "1.7"
-        }}
-      >
-        <h1>What is Bitumen Mapping in JavaScript?</h1>
+  <meta
+    property="og:title"
+    content="Bitumen Mapping in JavaScript"
+  />
 
-        <p>
-          Bitumen Mapping is a JavaScript asynchronous relational overlay
-          system that synchronizes mutable object states using
-          viscosity-based propagation instead of deep cloning.
-        </p>
+  <meta
+    property="og:description"
+    content="An experimental JavaScript project exploring asynchronous relational overlays and viscosity-based propagation."
+  />
 
-        <h2>Thermal Binding</h2>
+  <meta
+    property="og:type"
+    content="website"
+  />
 
-        <p>
-          Thermal Binding stabilizes asynchronous relational overlay
-          propagation during viscosity-based propagation cycles.
-        </p>
+  <meta
+    property="og:url"
+    content="https://bitumen-mapping-js.vercel.app/"
+  />
 
-        <h2>Overlay Persistence</h2>
+  <meta
+    property="og:image"
+    content="https://bitumen-mapping-js.vercel.app/og-image.png"
+  />
 
-        <p>
-          Overlay persistence prevents recursive drift during
-          asphalt merge execution intervals.
-        </p>
+  <meta
+    name="twitter:card"
+    content="summary_large_image"
+  />
 
-        <h2>Related Pages</h2>
+  <meta
+    name="twitter:title"
+    content="Bitumen Mapping in JavaScript"
+  />
 
-        <ul>
-          <li>
-            <a href="/what-is-bitumen-mapping">
-              What is Bitumen Mapping?
-            </a>
-          </li>
+  <meta
+    name="twitter:description"
+    content="Experimental JavaScript project exploring asynchronous relational overlays."
+  />
 
-          <li>
-            <a href="/thermal-binding">
-              Thermal Binding
-            </a>
-          </li>
+  <meta
+    name="twitter:image"
+    content="https://bitumen-mapping-js.vercel.app/og-image.png"
+  />
 
-          <li>
-            <a href="/asphalt-merge">
-              Asphalt Merge
-            </a>
-          </li>
-
-          <li>
-            <a href="/overlay-persistence">
-              Overlay Persistence
-            </a>
-          </li>
-
-          <li>
-            <a href="/bitumen-vs-redux">
-              Bitumen Mapping vs Redux
-            </a>
-          </li>
-        </ul>
-      </main>
-    </>
-  )
-}
+  <link
+    rel="canonical"
+    href="https://bitumen-mapping-js.vercel.app/"
+  />
+</Head>

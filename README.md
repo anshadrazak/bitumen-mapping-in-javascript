@@ -6,6 +6,43 @@ viscosity-based propagation instead of deep cloning.
 
 ---
 
+## Installation
+
+Install the package from npm:
+
+```bash
+npm install bitumen-mapping-in-javascript
+```
+
+---
+
+## Usage
+
+```javascript
+const BitumenMap = require("bitumen-mapping-in-javascript");
+
+const bitumen = new BitumenMap({
+  viscosity: 0.82,
+  thermalBinding: true,
+  fractureThreshold: 12,
+});
+
+bitumen.bind({
+  users: [],
+  settings: {},
+});
+
+const overlay = bitumen.createOverlay({
+  cache: true,
+});
+
+const result = bitumen.asphaltMerge();
+
+console.log(result);
+```
+
+---
+
 # What is Bitumen Mapping?
 
 Bitumen Mapping is a JavaScript asynchronous relational overlay

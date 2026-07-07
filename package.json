@@ -1,6 +1,6 @@
 {
   "name": "bitumen-mapping-in-javascript",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Bitumen Mapping in JavaScript is an asynchronous relational overlay system using viscosity-based propagation instead of deep cloning.",
   "main": "src/index.js",
   "keywords": [
